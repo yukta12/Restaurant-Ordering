@@ -29,6 +29,7 @@
         <a class="navbar-brand" href="index.html">EatWell</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#site-nav" aria-controls="site-nav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="oi oi-menu"></span> Menu
+          <span class="oi oi-menu"></span> Order Food
         </button>
 
         <div class="collapse navbar-collapse" id="site-nav">
@@ -37,6 +38,7 @@
             <li class="nav-item"><a href="#section-about" class="nav-link">About</a></li>
             <li class="nav-item"><a href="#section-offer" class="nav-link">Offer</a></li>
             <li class="nav-item"><a href="#section-menu" class="nav-link">Menu</a></li>
+             <li class="nav-item"><a href="#section-menu" class="nav-link">Order Food</a></li>
             <li class="nav-item"><a href="#section-news" class="nav-link">News</a></li>
             <li class="nav-item"><a href="#section-gallery" class="nav-link">Gallery</a></li>
             <li class="nav-item"><a href="#section-contact" class="nav-link">Contact</a></li>
@@ -46,7 +48,7 @@
     </nav>
     <!-- END nav -->
 
-    <section class="site-cover" style="background-image: url(images/bg_3.jpg);" id="section-home">
+    <section class="site-cover" style="background-image: url(images/download.jpg);" id="section-home">
       <div class="container">
         <div class="row align-items-center justify-content-center text-center site-vh-100">
           <div class="col-md-12">
@@ -71,7 +73,7 @@
           </div>
           <div class="col-md-1"></div>
           <div class="col-md-6 site-animate img" data-animate-effect="fadeInRight">
-            <img src="images/about_img_1.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+            <img src="images/about_img_1.jpg" alt="" class="img-fluid">
           </div>
         </div>
       </div>
@@ -96,7 +98,7 @@
 
               <div class="item">
                 <div class="media d-block mb-4 text-center site-media site-animate border-0">
-                  <img src="images/offer_1.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+                  <img src="images/offer_1.jpg" alt="" class="img-fluid">
                   <div class="media-body p-md-5 p-4">
                     <h5 class="text-primary">$19.50</h5>
                     <h5 class="mt-0 h4">Beef with Sausage</h5>
@@ -109,7 +111,7 @@
 
               <div class="item">
                 <div class="media d-block mb-4 text-center site-media site-animate border-0">
-                  <img src="images/offer_2.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+                  <img src="images/offer_2.jpg" alt="" class="img-fluid">
                   <div class="media-body p-md-5 p-4">
                     <h5 class="text-primary">$29.50</h5>
                     <h5 class="mt-0 h4">Egg with Garlic </h5>
@@ -122,7 +124,7 @@
               
               <div class="item">
                 <div class="media d-block mb-4 text-center site-media site-animate border-0">
-                  <img src="images/offer_3.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+                  <img src="images/offer_3.jpg" alt="" class="img-fluid">
                   <div class="media-body p-md-5 p-4">
                     <h5 class="text-primary">$11.50</h5>
                     <h5 class="mt-0 h4">Beef Ribs</h5>
@@ -135,7 +137,7 @@
 
               <div class="item">
                 <div class="media d-block mb-4 text-center site-media site-animate border-0">
-                  <img src="images/offer_1.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+                  <img src="images/offer_1.jpg" alt="" class="img-fluid">
                   <div class="media-body p-md-5 p-4">
                     <h5 class="text-primary">$33.50</h5>
                     <h5 class="mt-0 h4">Beef with Sauce</h5>
@@ -148,7 +150,7 @@
 
               <div class="item">
                 <div class="media d-block mb-4 text-center site-media site-animate border-0">
-                  <img src="images/offer_2.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+                  <img src="images/offer_2.jpg" alt="" class="img-fluid">
                   <div class="media-body p-md-5 p-4">
                     <h5 class="text-primary">$12.50</h5>
                     <h5 class="mt-0 h4">Fresh Salmon Fish</h5>
@@ -161,7 +163,7 @@
               
               <div class="item">
                 <div class="media d-block mb-4 text-center site-media site-animate border-0">
-                  <img src="images/offer_3.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+                  <img src="images/offer_3.jpg" alt="" class="img-fluid">
                   <div class="media-body p-md-5 p-4">
                     <h5 class="text-primary">$53.50</h5>
                     <h5 class="mt-0 h4">Beef Ribs</h5>
@@ -174,7 +176,7 @@
 
               <div class="item">
                 <div class="media d-block mb-4 text-center site-media site-animate border-0">
-                  <img src="images/offer_1.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+                  <img src="images/offer_1.jpg" alt="" class="img-fluid">
                   <div class="media-body p-md-5 p-4">
                     <h5 class="text-primary">$22.50</h5>
                     <h5 class="mt-0 h4">Beef with Sauce</h5>
@@ -187,7 +189,7 @@
 
               <div class="item">
                 <div class="media d-block mb-4 text-center site-media site-animate border-0">
-                  <img src="images/offer_2.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+                  <img src="images/offer_2.jpg" alt="" class="img-fluid">
                   <div class="media-body p-md-5 p-4">
                     <h5 class="text-primary">$39.50</h5>
                     <h5 class="mt-0 h4">Fresh Salmon Fish</h5>
@@ -200,7 +202,7 @@
               
               <div class="item">
                 <div class="media d-block mb-4 text-center site-media site-animate border-0">
-                  <img src="images/offer_3.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+                  <img src="images/offer_3.jpg" alt="" class="img-fluid">
                   <div class="media-body p-md-5 p-4">
                     <h5 class="text-primary">$39.50</h5>
                     <h5 class="mt-0 h4">Beef Ribs</h5>
@@ -250,7 +252,7 @@
                 <div class="row">
                   <div class="col-md-6 site-animate">
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Salted Fried Chicken</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -259,7 +261,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Italian Sauce Mushroom</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -268,7 +270,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -279,7 +281,7 @@
                   </div>
                   <div class="col-md-6 site-animate">
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Italian Sauce Mushroom</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -288,7 +290,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Salted Fried Chicken</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -297,7 +299,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -312,7 +314,7 @@
                   <div class="col-md-6 site-animate">
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -321,7 +323,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Salted Fried Chicken</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -330,7 +332,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Italian Sauce Mushroom</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -342,7 +344,7 @@
                   <div class="col-md-6 site-animate">
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -351,7 +353,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Italian Sauce Mushroom</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -360,7 +362,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Salted Fried Chicken</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -377,7 +379,7 @@
                   <div class="col-md-6 site-animate">
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Italian Sauce Mushroom</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -386,7 +388,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Salted Fried Chicken</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -395,7 +397,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -407,7 +409,7 @@
                   <div class="col-md-6 site-animate">
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_3.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Fried Potato w/ Garlic</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -416,7 +418,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_2.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Italian Sauce Mushroom</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -425,7 +427,7 @@
                     </div>
 
                     <div class="media menu-item">
-                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="Free Template by colorlib.com">
+                      <img class="mr-3" src="images/menu_1.jpg" class="img-fluid" alt="">
                       <div class="media-body">
                         <h5 class="mt-0">Salted Fried Chicken</h5>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -444,7 +446,7 @@
       </div>
       <div class="container">
           
-      <p class="mb-0 mt-5 ml-5"><a href="#" class="btn btn-primary btn-lg">More Menu!</a></p>
+      <p class="mb-0 mt-5 ml-5"><a href="show-menu.php" class="btn btn-primary btn-lg">More Menu!</a></p>
       </div>
      
     </section>
@@ -465,7 +467,7 @@
 
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="media d-block mb-4 text-center site-media site-animate">
-              <img src="images/offer_1.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+              <img src="images/offer_1.jpg" alt="" class="img-fluid">
               <div class="media-body p-md-5 p-4">
                 <h5 class="mt-0 h4">We Have Dilecious Food</h5>
                 <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -476,7 +478,7 @@
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="media d-block mb-4 text-center site-media site-animate">
-              <img src="images/offer_2.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+              <img src="images/offer_2.jpg" alt="" class="img-fluid">
               <div class="media-body p-md-5 p-4">
                 <h5 class="mt-0 h4">Chef Special Menu</h5>
                 <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -487,7 +489,7 @@
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="media d-block mb-4 text-center site-media site-animate">
-              <img src="images/offer_3.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+              <img src="images/offer_3.jpg" alt="" class="img-fluid">
               <div class="media-body p-md-5 p-4">
                 <h5 class="mt-0 h4">Merriage Celebrations</h5>
                 <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -516,33 +518,33 @@
 
           <div class="col-md-4 site-animate">
             <a href="images/menu_1.jpg" class="site-thumbnail image-popup">
-              <img src="images/menu_1.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+              <img src="images/menu_1.jpg" alt="" class="img-fluid">
             </a>
           </div>
           <div class="col-md-4 site-animate">
             <a href="images/menu_2.jpg" class="site-thumbnail image-popup">
-              <img src="images/menu_2.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+              <img src="images/menu_2.jpg" alt="" class="img-fluid">
             </a>
           </div>
           <div class="col-md-4 site-animate">
             <a href="images/menu_3.jpg" class="site-thumbnail image-popup">
-              <img src="images/menu_3.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+              <img src="images/menu_3.jpg" alt="" class="img-fluid">
             </a>
           </div>
 
           <div class="col-md-4 site-animate">
             <a href="images/menu_2.jpg" class="site-thumbnail image-popup">
-              <img src="images/menu_2.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+              <img src="images/menu_2.jpg" alt="" class="img-fluid">
             </a>
           </div>
           <div class="col-md-4 site-animate">
             <a href="images/menu_3.jpg" class="site-thumbnail image-popup">
-              <img src="images/menu_3.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+              <img src="images/menu_3.jpg" alt="" class="img-fluid">
             </a>
           </div>
           <div class="col-md-4 site-animate">
             <a href="images/menu_1.jpg" class="site-thumbnail image-popup">
-              <img src="images/menu_1.jpg" alt="Free Template by colorlib.com" class="img-fluid">
+              <img src="images/menu_1.jpg" alt="" class="img-fluid">
             </a>
           </div>
 
@@ -597,7 +599,7 @@
         </div>
       </div>
     </section>
-    <div id="map"></div>
+   
     <!-- END section -->
     
 
@@ -685,10 +687,6 @@
     
     <script src="js/jquery.animateNumber.min.js"></script>
     
-
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-    <script src="js/google-map.js"></script>
-
     <script src="js/main.js"></script>
 
     
