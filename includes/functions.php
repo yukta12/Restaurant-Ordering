@@ -35,7 +35,6 @@ function getAllItems($condition = 1)
     }
    return $items;
 }
-//getAllCategories();
 
 function isLoggedIn(){
     session_start();
