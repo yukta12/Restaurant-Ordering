@@ -15,6 +15,13 @@ function getAllUsers($condition =1){
     return $result;
 }
 
+function getAllOrders($condition =1){
+    global $connection;
+    $sql = "SELECT * FROM ordered_food WHERE $condition";
+    $result = mysqli_query($connection, $sql);
+    return $result;
+}
+
 
 
 function getAllItems($condition = 1)
@@ -35,6 +42,8 @@ function getAllItems($condition = 1)
     }
    return $items;
 }
+
+
 
 function isLoggedIn(){
     session_start();

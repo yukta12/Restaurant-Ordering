@@ -5,3 +5,30 @@
     color: #333;
     font-size: 32px;
 }
+
+.placed-container{
+    border: solid 3px #000;
+    padding: 8%;
+    margin: 2% 12%;
+}
+#check{
+    margin: 1% 45%;
+    color: forestgreen;
+}
+.text{
+     margin: 0 27%;
+    color: #333;
+    font-size: 32px;
+}
+.link{
+     margin: 1% 35%;
+    color: #333;
+    font-size: 22px;
+}
+.link>a{
+    color: forestgreen;
+}
+.link>a:hover{
+    color:  #FDA403;
+    font-size: 24px;
+}
