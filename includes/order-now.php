@@ -1,4 +1,7 @@
-<?php
+   <?php
+/*
+    Inserts the order that was placed in db processes the query and displays order_placed.php if query execution was succesfull
+*/
     include_once("connection.php");
     if(isset($_POST['order_food'])){
     
