@@ -1,3 +1,6 @@
+<!--PAGE TO DISPLAY IF ORDER IS PLACED SUCCESFULLY-->
+
+
 <!DOCTYPE html>
 
 <html lang="en">
@@ -16,7 +19,7 @@
     <link rel="stylesheet" href="../css/owl.theme.default.min.css">
     <link rel="stylesheet" href="../css/magnific-popup.css">
 
-    <link rel=`"stylesheet" href="../css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="../css/bootstrap-datepicker.css">
     <link rel="stylesheet" href="../css/jquery.timepicker.css">
     <link rel="stylesheet" href="../admin/vendor/fontawesome-free/css/all.css">
 

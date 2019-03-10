@@ -1,3 +1,4 @@
+<!--LANDING PAGE TO SHOWCASE HOTEL-->
 <!DOCTYPE html>
 <html lang="en">
   <head>

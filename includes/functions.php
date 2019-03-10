@@ -4,9 +4,16 @@
  * User: User
  * Date: 12/27/2018
  * Time: 11:07 AM
+ 
+ COMMON FUNCTIONS IN ENTIRE FILES that includes connection
  */
 include_once ("connection.php");
 
+/*
+This function gets all the users in the db
+@param   : condition(if any)
+@returns : result-set
+*/
 
 function getAllUsers($condition =1){
     global $connection;
@@ -15,6 +22,12 @@ function getAllUsers($condition =1){
     return $result;
 }
 
+/*
+This function gets all the orders in the db
+@param   : condition(if any)
+@returns : result-set
+*/
+
 function getAllOrders($condition =1){
     global $connection;
     $sql = "SELECT * FROM ordered_food WHERE $condition";
@@ -22,6 +35,11 @@ function getAllOrders($condition =1){
     return $result;
 }
 
+/*
+This function gets all the items in the db
+@param   : condition(if any)
+@returns : result-set
+*/
 
 
 function getAllItems($condition = 1)
@@ -44,6 +62,11 @@ function getAllItems($condition = 1)
 }
 
 
+/*
+This function is used to check if the user is logged in or not
+@param   : Nothing
+@returns : boolean
+*/
 
 function isLoggedIn(){
     session_start();
@@ -54,6 +77,12 @@ function isLoggedIn(){
         return false;
     }
 }
+/*
+This function is used to start a session only if there is no session started
+@param   : Nothing
+@returns : Nothing
+*/
+
 function startSession(){
     if(session_status() == PHP_SESSION_NONE)    {
             session_start();
