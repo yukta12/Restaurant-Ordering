@@ -32,7 +32,7 @@ localhost/eatwell/
 ## Prerequisites
 
 - [Xampp](https://www.apachefriends.org/download.html)
-- Any editior
+- Any editor
 
 
 ## Credits & acknowledgements
