@@ -40,5 +40,10 @@ localhost/eatwell/
 - images [pexels.com](https://www.pexels.com/royalty-free-images/) & [unsplash.com](https://unsplash.com/)
 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## images
+<img src="https://github.com/yukta12/Restaurant-Ordering/blob/master/images/show-menu.png" width="300">
+<img src="https://github.com/yukta12/Restaurant-Ordering/blob/master/images/order-food.png" width="300">
+<img src="https://github.com/yukta12/Restaurant-Ordering/blob/master/images/confirm-order.png" width="300">
+<img src="https://github.com/yukta12/Restaurant-Ordering/blob/master/images/admin.png" width="300">
+
+
